@@ -1,0 +1,20 @@
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\bin\Debug\net6.0-windows\Лабораторная 2.exe
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\bin\Debug\net6.0-windows\Лабораторная 2.deps.json
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\bin\Debug\net6.0-windows\Лабораторная 2.runtimeconfig.json
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\bin\Debug\net6.0-windows\Лабораторная 2.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\bin\Debug\net6.0-windows\Лабораторная 2.pdb
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2_MarkupCompile.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2_MarkupCompile.lref
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.g.resources
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.AssemblyInfoInputs.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.AssemblyInfo.cs
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.csproj.CoreCompileInputs.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\refint\Лабораторная 2.dll
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.pdb
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\Лабораторная 2.genruntimeconfig.cache
+C:\Users\xatio\OneDrive\Документы\Учеба\Введение в программирование\Лабораторная 2\Лабораторная 2\obj\Debug\net6.0-windows\ref\Лабораторная 2.dll
